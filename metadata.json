@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Audi LinkHub - Texnologiya orqali yuksalish",
+  "description": "Audi uchun premium darajadagi LinkHub platformasi. Hashamatli dizayn, innovatsion interfeys va oson boshqaruv paneli.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
